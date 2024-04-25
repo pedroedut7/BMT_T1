@@ -1,0 +1,3 @@
+A forma que eu adotei pra salvar as informações do modelo vetorial foi a seguinte:
+- Salvo na primeira linha do CSV a ordem das palavras no espaço vetorial
+- Nas demais linhas, cada linha representará uma linha da matriz. Tendo no total um número N de linhas igual ao número de documentos.
